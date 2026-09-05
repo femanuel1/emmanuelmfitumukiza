@@ -1,0 +1,75 @@
+/* General page */
+body {
+    margin: 0;
+    padding: 40px;
+    font-family: Arial, sans-serif;
+    background: #f4f7fb;
+    color: #1f2937;
+}
+
+/* Portfolio title */
+p:first-child {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: #1e3a8a;
+    margin-bottom: 40px;
+}
+
+/* Main menu */
+ol {
+    max-width: 800px;
+    margin: auto;
+    padding: 30px 50px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+}
+
+/* Main sections */
+ol > li {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+/* Sub-items */
+ol ul {
+    margin-top: 10px;
+    padding-left: 25px;
+}
+
+ol ul {
+    font-size: 16px;
+    font-weight: normal;
+    color: #64748b;
+    margin-bottom: 6px;
+}
+
+/* Hover effect */
+ol > li:hover {
+    background: #f8fafc;
+    color: #2563eb;
+    border-radius: 8px;
+}
+
+/* Mobile devices */
+@media (max-width: 600px) {
+    body {
+        padding: 20px;
+    }
+
+    p:first-child {
+        font-size: 30px;
+    }
+
+    ol {
+        padding: 20px 30px;
+    }
+
+    ol > li {
+        font-size: 18px;
+    }
+}
