@@ -61,10 +61,10 @@ ol > li:hover {
         padding: 20px;
     }
 
-    p:first-child {
+    /* p:first-child {
         font-size: 20px;
     }
-
+*/
     ol {
         padding: 20px 30px;
     }
