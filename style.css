@@ -9,7 +9,7 @@ body {
 
 /* Portfolio title */
 p:first-child {
-    font-size: 12px;
+    font-size: 30px;
     font-weight: bold;
     text-align: center;
     color: #1e3a8a;
@@ -62,7 +62,7 @@ ol > li:hover {
     }
 
     p:first-child {
-        font-size: 30px;
+        font-size: 20px;
     }
 
     ol {
