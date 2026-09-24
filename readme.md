@@ -4,12 +4,29 @@ This project is a personal professional portfolio showcasing my background, educ
 
 ## Features
 
-Feature Item One - About Me : This section provides a brief overview of my professional background, experience, roles, and areas of expertise.
-Feature Item Two - Projects : This section presents selected projects and technical work.
-Feature Item Three - Education : This section presents my academic qualifications and education background.
-Feature Item Four- Certifications : This section presents selected professional certification and thetraining certificates of completion.
-Feature Item Five - Contact : This section provides professional contact and social media links.
-Feature Item Six – Responsive Design : This feature provides a responsive layout that adapts to desktop, tablet, and mobile devices.
+1. Feature Item One - About Me 
+
+This section provides a brief overview of my professional background, experience, roles, and areas of expertise.
+
+2. Feature Item Two - Projects 
+
+This section presents selected projects and technical work.
+
+3. Feature Item Three - Education 
+
+This section presents my academic qualifications and education background.
+
+4. Feature Item Four- Certifications 
+
+ This section presents selected professional certification and thetraining certificates of completion.
+
+5. Feature Item Five - Contact 
+
+ This section provides professional contact and social media links.
+
+6. Feature Item Six – Responsive Design 
+
+This feature provides a responsive layout that adapts to desktop, tablet, and mobile devices.
 
 ## Technologies Used
 
