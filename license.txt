@@ -4,56 +4,39 @@ Copyright (c) 2026 MFITUMUKIZA Emmanuel
 
 1. PROJECT PURPOSE
 
-This project is a personal professional portfolio developed for
-educational and professional presentation purposes. It contains HTML and
-CSS source code together with personal professional information, photographs,
-and other portfolio content.
+This project is a personal professional portfolio developed for educational and professional presentation purposes. It contains HTML and CSS source code together with personal professional information, photographs, and other portfolio content.
 
 2. SOURCE CODE LICENSE
 
-The source code of this project may be viewed and studied for personal,
-educational, and learning purposes.
+The source code of this project may be viewed and studied for personal, educational, and learning purposes.
 
-Permission is granted to students, educators, and other individuals to
-study the code and use it as a reference for learning web development.
+Permission is granted to students, educators, and other individuals to study the code and use it as a reference for learning web development.
 
-Permission is not granted to redistribute, publish, or present the complete
-project as another person's original work.
+Permission is not granted to redistribute, publish, or present the complete project as another person's original work.
 
 3. PORTFOLIO CONTENT
 
-The portfolio content, including the author's name, biography, photograph,
-professional information, contact information, and other identifying
-materials, remains the property of the author.
+The portfolio content, including the author's name, biography, photograph, professional information, contact information, and other identifying materials, remains the property of the author.
 
-This content may not be copied, reproduced, redistributed, or presented as
-another person's personal or professional information without prior
-permission from the author.
+This content may not be copied, reproduced, redistributed, or presented as another person's personal or professional information without prior permission from the author.
 
 4. THIRD-PARTY RESOURCES
 
-Any third-party resources used in this project, including icons, fonts,
-images, libraries, or other external resources, remain subject to their
-respective licenses and terms of use.
+Any third-party resources used in this project, including icons, fonts, images, libraries, or other external resources, remain subject to their respective licenses and terms of use.
 
-Users of this project are responsible for complying with the licenses and
-terms applicable to those third-party resources.
+Users of this project are responsible for complying with the licenses and terms applicable to those third-party resources.
 
 5. COMMERCIAL USE
 
-Commercial use, redistribution, or creation of a derivative project based
-on this portfolio requires prior permission from the author.
+Commercial use, redistribution, or creation of a derivative project based on this portfolio requires prior permission from the author.
 
 6. WARRANTY AND LIABILITY
 
-This project is provided "as is", without warranty of any kind, express or
-implied. The author shall not be liable for any claim, damages, or other
-liability arising from the use of the project.
+This project is provided "as is", without warranty of any kind, express or implied. The author shall not be liable for any claim, damages, or other liability arising from the use of the project.
 
 7. PERMISSION
 
-For permission to reuse, modify, redistribute, publish, or commercially use
-this project or its original content, please contact the author.
+For permission to reuse, modify, redistribute, publish, or commercially use this project or its original content, please contact the author.
 
 Author:
 MFITUMUKIZA Emmanuel
