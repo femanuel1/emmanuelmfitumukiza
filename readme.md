@@ -61,17 +61,15 @@ Open the project folder in Visual Studio Code or another text editor.
 4. Run the project
 Open the index.html file in a web browser.
 
-###### License
+## License
 
 This project is intended for educational and personal professional portfolio purposes.
 The source code may be viewed and studied for learning purposes. Reuse, redistribution, modification, or commercial use of the original portfolio content, personal information, photographs, and other identifying materials requires permission from the owner.
 
 Third-party resources used in the project remain subject to their respective licenses and terms of use.
-For complete licensing terms and conditions, see the License.txt file included in this repository.
+For complete licensing terms and conditions, see the [License.txt](https://github.com/femanuel1/emmanuelmfitumukiza/blob/main/license.txt) file included in this repository.
 
 # Contributors
-
-## Contributors
 
 This project was developed by:
 
