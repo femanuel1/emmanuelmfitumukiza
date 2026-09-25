@@ -1,4 +1,4 @@
-# MFITUMUKIZA Emmanuel – Personal Portfolio
+# MFITUMUKIZA Emmanuel – Portfolio
 
 This project is a personal professional portfolio showcasing my background, education, certifications, projects, and contact information. It presents my career as an Information Technology professional and expert trainer, with a focus on practical skills development in network operations, digital infrastructure, Internet governance, and online trust and safety.
 
