@@ -1,28 +1,30 @@
 # MFITUMUKIZA Emmanuel – Portfolio
 
-This project is a personal professional portfolio showcasing my background, education, certifications, projects, and contact information. It presents my career as an Information Technology professional and expert trainer, with a focus on practical skills development in network operations, digital infrastructure, Internet governance, and online trust and safety.
+This project is a personal professional portfolio showcasing my experience, expertise, and contributions as an Information Technology professional and expert trainer. It features dedicated Home, About Me, Services, Portfolio, and Contact pages, providing an overview of my professional background, areas of expertise, services offered, selected projects, and contact information. The portfolio highlights my work in network operations, digital infrastructure, Internet governance, practical ICT skills development, and online trust and safety, with an emphasis on expanding meaningful Internet access and fostering trusted online environments.
+
 
 ## Features
 
-1. Feature Item One - About Me 
+1. Home
 
-This section provides a brief overview of my professional background, experience, roles, and areas of expertise.
+Introduces my professional portfolio and highlights my expertise and key areas of work.
 
-2. Feature Item Two - Projects 
+2. About Me 
 
-This section presents selected projects and technical work.
+Presents my professional background, experience, leadership roles, education, certifications, and areas of expertise.
 
-3. Feature Item Three - Education 
+3. Services
 
-This section presents my academic qualifications and education background.
+Highlights the professional services I offer in network operations, digital infrastructure, technical capacity building, digital transformation, Internet governance, and online trust and safety, helping organizations strengthen connectivity, develop practical ICT skills, leverage technology, and foster safer, more inclusive digital environments.
 
-4. Feature Item Four- Certifications 
+4. Projects 
 
- This section presents selected professional certification and thetraining certificates of completion.
+Showcases selected projects and professional initiatives in network operations, digital infrastructure, community connectivity, technical capacity building, digital transformation, Internet governance, and online trust and safety, highlighting practical solutions that expand meaningful Internet access and strengthen digital inclusion.
 
-5. Feature Item Five - Contact 
+5. Contact 
 
- This section provides professional contact and social media links.
+ Provides a contact form that allows visitors to submit messages, make professional inquiries, discuss potential collaborations, and connect with me regarding IT services, technical capacity building, digital transformation, and other professional opportunities.
+
 
 6. Feature Item Six – Responsive Design 
 
@@ -32,9 +34,13 @@ This feature provides a responsive layout that adapts to desktop, tablet, and mo
 
 The following technologies were used to develop this portfolio:
 
-1. HTML
-2. CSS
-3. Font Awesome
+1. HTML 5
+2. CSS 3
+3. Bootstrap
+4. JavaScript
+5. jQuery
+6. Font Awesome
+7. Google Fonts
 
 ## How to Run This Project
 
@@ -71,9 +77,19 @@ For complete licensing terms and conditions, see the [License.txt](https://githu
 
 # Contributors
 
-This project was developed by:
+###Project Owner and Developer
 
-MFITUMUKIZA Emmanuel - Owner and Developer
+Full Name: MFITUMUKIZA Emmanuel
+GitHub Username: femanuel1
+GitHub Profile: https://github.com/femanuel1
+Role: Designing and developing the personal professional portfolio.
+
+###Collaborator
+
+Full Name: TURATSINZE Taussaint
+GitHub Username: ngoga905
+GitHub Profile: https://github.com/ngoga905
+Role: Collaborated on reviewing and updating the “What Clients Say” section on the Services page.
 
 ## Project Link
 

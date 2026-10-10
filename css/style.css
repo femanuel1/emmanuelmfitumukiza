@@ -3299,8 +3299,374 @@ h6 {
     .footer_area .footer_bottom a {
       color: #854fee; }
 
+
 /* End Footer Area css
 ============================================================================================ */
 /*---------------------------------------------------- */
+
+
+/* =========================
+   Education Section
+========================= */
+
+#education {
+    padding: 80px 0;
+    background: #f5f8fc;
+}
+
+#education h2,
+#certifications h2 {
+    margin-bottom: 40px;
+    color: #0d3152;
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+    position: relative;
+}
+
+#education h2::after,
+#certifications h2::after {
+    content: "";
+    display: block;
+    width: 65px;
+    height: 4px;
+    margin: 14px auto 0;
+    background: #168aad;
+    border-radius: 4px;
+}
+
+.education-grid {
+    row-gap: 25px;
+}
+
+.education-grid > div {
+    display: flex;
+}
+
+.education-card {
+    width: 100%;
+    height: 100%;
+    padding: 30px 25px;
+    background: #ffffff;
+    border: 1px solid #e1eaf2;
+    border-top: 4px solid #0d6eaa;
+    border-radius: 12px;
+    box-shadow: 0 5px 20px rgba(7, 26, 43, 0.06);
+    transition: transform 0.3s ease,
+                box-shadow 0.3s ease,
+                border-color 0.3s ease;
+}
+
+.education-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 28px rgba(7, 26, 43, 0.12);
+    border-top-color: #168aad;
+}
+
+.education-card h3 {
+    margin: 0 0 14px;
+    color: #0d3152;
+    font-size: 1.2rem;
+    font-weight: 700;
+    line-height: 1.5;
+}
+
+.education-card .education-period {
+    display: inline-block;
+    margin-bottom: 16px;
+    padding: 6px 12px;
+    color: #075985;
+    background: #e8f4fc;
+    border-radius: 20px;
+    font-size: 0.88rem;
+    font-weight: 600;
+}
+
+.education-card p {
+    margin-bottom: 14px;
+    color: #526273;
+    font-size: 0.96rem;
+    line-height: 1.8;
+}
+
+.education-card p:last-child {
+    margin-bottom: 0;
+}
+
+.education-card strong {
+    color: #243f57;
+    font-weight: 600;
+}
+
+
+/* =========================
+   Certifications Section
+========================= */
+
+#certifications {
+    padding: 80px 0;
+    background: #ffffff;
+}
+
+#certifications .section-heading {
+    margin-bottom: 35px;
+}
+
+.certification-container {
+    max-width: 1050px;
+    margin: 0 auto;
+}
+
+.certification-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 22px;
+}
+
+.certification-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 18px;
+    min-width: 0;
+    padding: 24px;
+    background: #f8fafc;
+    border: 1px solid #e3ebf3;
+    border-radius: 12px;
+    transition: transform 0.3s ease,
+                box-shadow 0.3s ease,
+                background 0.3s ease;
+}
+
+.certification-item:hover {
+    transform: translateY(-4px);
+    background: #ffffff;
+    box-shadow: 0 10px 24px rgba(7, 26, 43, 0.09);
+}
+
+.certification-icon {
+    display: flex;
+    flex: 0 0 52px;
+    align-items: center;
+    justify-content: center;
+    width: 52px;
+    height: 52px;
+    border-radius: 12px;
+    font-size: 1.25rem;
+}
+
+.certification-blue {
+    color: #1769aa;
+    background: #e5f1ff;
+}
+
+.certification-teal {
+    color: #0f766e;
+    background: #dff7f1;
+}
+
+.certification-purple {
+    color: #7046a8;
+    background: #f0e8ff;
+}
+
+.certification-green {
+    color: #237a45;
+    background: #e3f7e9;
+}
+
+.certification-orange {
+    color: #b85c12;
+    background: #fff0df;
+}
+
+.certification-indigo {
+    color: #4338a8;
+    background: #e9eaff;
+}
+
+.certification-content {
+    flex: 1;
+    min-width: 0;
+}
+
+.certification-content h3 {
+    margin: 2px 0 12px;
+    color: #0d3152;
+    font-size: 1.05rem;
+    font-weight: 700;
+    line-height: 1.5;
+}
+
+.certificate-meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 7px;
+    color: #64748b;
+    font-size: 0.87rem;
+    line-height: 1.7;
+}
+
+.certificate-year {
+    color: #0d6eaa;
+    font-weight: 700;
+    white-space: nowrap;
+}
+
+.meta-divider {
+    color: #a0aec0;
+}
+
+.certificate-organisation {
+    overflow-wrap: anywhere;
+}
+
+
+/* =========================
+   Responsive Design
+========================= */
+
+@media (max-width: 991px) {
+    #education,
+    #certifications {
+        padding: 65px 0;
+    }
+
+    .education-card {
+        padding: 25px 22px;
+    }
+
+    .certification-grid {
+        gap: 18px;
+    }
+
+    .certification-item {
+        padding: 20px;
+        gap: 14px;
+    }
+}
+
+@media (max-width: 767px) {
+    #education,
+    #certifications {
+        padding: 50px 0;
+    }
+
+    #education h2,
+    #certifications h2 {
+        margin-bottom: 30px;
+        font-size: 1.7rem;
+    }
+
+    .education-grid {
+        row-gap: 20px;
+    }
+
+    .education-card {
+        padding: 24px 20px;
+    }
+
+    .certification-grid {
+        grid-template-columns: 1fr;
+        gap: 16px;
+    }
+
+    .certification-item {
+        padding: 20px;
+    }
+}
+
+@media (max-width: 420px) {
+    .education-card h3 {
+        font-size: 1.08rem;
+    }
+
+    .education-card p {
+        font-size: 0.92rem;
+    }
+
+    .certification-item {
+        gap: 12px;
+        padding: 16px;
+    }
+
+    .certification-icon {
+        flex-basis: 44px;
+        width: 44px;
+        height: 44px;
+        font-size: 1.1rem;
+    }
+
+    .certification-content h3 {
+        font-size: 0.98rem;
+    }
+
+    .certificate-meta {
+        font-size: 0.82rem;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .education-card,
+    .certification-item {
+        transition: none;
+    }
+
+    .education-card:hover,
+    .certification-item:hover {
+        transform: none;
+    }
+}
+
+/* Certification icons */
+.certification-icon {
+    display: flex;
+    flex: 0 0 52px;
+    align-items: center;
+    justify-content: center;
+    width: 52px;
+    height: 52px;
+    border-radius: 12px;
+    font-size: 1.4rem;
+}
+
+.certification-icon i {
+    display: inline-block;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    font-style: normal;
+    line-height: 1;
+}
+
+/* Icon background and foreground colors */
+.certification-blue {
+    color: #1769aa;
+    background-color: #e5f1ff;
+}
+
+.certification-teal {
+    color: #0f766e;
+    background-color: #dff7f1;
+}
+
+.certification-purple {
+    color: #7046a8;
+    background-color: #f0e8ff;
+}
+
+.certification-green {
+    color: #237a45;
+    background-color: #e3f7e9;
+}
+
+.certification-orange {
+    color: #b85c12;
+    background-color: #fff0df;
+}
+
+.certification-indigo {
+    color: #4338a8;
+    background-color: #e9eaff;
+}
 
 /*# sourceMappingURL=style.css.map */
