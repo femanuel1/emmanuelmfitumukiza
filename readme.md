@@ -77,18 +77,24 @@ For complete licensing terms and conditions, see the [License.txt](https://githu
 
 # Contributors
 
-###Project Owner and Developer
+### Project Owner and Developer
 
 Full Name: MFITUMUKIZA Emmanuel
+
 GitHub Username: femanuel1
+
 GitHub Profile: https://github.com/femanuel1
+
 Role: Designing and developing the personal professional portfolio.
 
-###Collaborator
+### Collaborator
 
 Full Name: TURATSINZE Taussaint
+
 GitHub Username: ngoga905
+
 GitHub Profile: https://github.com/ngoga905
+
 Role: Collaborated on reviewing and updating the “What Clients Say” section on the Services page.
 
 ## Project Link
