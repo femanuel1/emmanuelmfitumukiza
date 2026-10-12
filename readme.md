@@ -1,6 +1,8 @@
 # MFITUMUKIZA Emmanuel – Portfolio
 
-This project is a personal professional portfolio showcasing my experience, expertise, and contributions as an Information Technology professional and expert trainer. It features dedicated Home, About Me, Services, Portfolio, and Contact pages, providing an overview of my professional background, areas of expertise, services offered, selected projects, and contact information. The portfolio highlights my work in network operations, digital infrastructure, Internet governance, practical ICT skills development, and online trust and safety, with an emphasis on expanding meaningful Internet access and fostering trusted online environments.
+This project is a personal professional portfolio showcasing my experience, expertise, and contributions as an Information Technology professional and expert trainer. It features dedicated Home, About Me, Services, Portfolio, and Contact pages, providing an overview of my professional background, areas of expertise, services offered, selected projects, and contact information.
+
+The portfolio highlights my work in network operations, digital infrastructure, Internet governance, practical ICT skills development, and online trust and safety, with an emphasis on expanding meaningful Internet access and fostering trusted online environments.
 
 
 ## Features
@@ -26,7 +28,7 @@ Showcases selected projects and professional initiatives in network operations, 
  Provides a contact form that allows visitors to submit messages, make professional inquiries, discuss potential collaborations, and connect with me regarding IT services, technical capacity building, digital transformation, and other professional opportunities.
 
 
-6. Feature Item Six – Responsive Design 
+6. Responsive Design 
 
 This feature provides a responsive layout that adapts to desktop, tablet, and mobile devices.
 
@@ -38,9 +40,7 @@ The following technologies were used to develop this portfolio:
 2. CSS 3
 3. Bootstrap
 4. JavaScript
-5. jQuery
-6. Font Awesome
-7. Google Fonts
+5. PHP
 
 ## How to Run This Project
 
